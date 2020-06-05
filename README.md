@@ -26,20 +26,31 @@
 	
 	
 10.   O que é DML?
+
 a.      (   )  São comandos de manipulação de objetos no banco de dados. (CREATE, ALTER, DROP)
+
 b.      (   )  São comandos de manipulação de dados no banco de dados. (INSERT, UPDATE e DELETE)
+
 c.      (   )  São comandos que garantem a integridade do banco de dados. (BEGIN TRANSACTION, TRIGGER, IDENTITY, FOREIGN KEY)
+
 	
 11.   O que é DDL?
 a.      (   )  São comandos de manipulação de dados no banco de dados. (INSERT, UPDATE e DELETE)
+
 b.      (   )  São comandos que garantem a integridade do banco de dados. (BEGIN TRANSACTION, TRIGGER, IDENTITY, FOREIGN KEY)
+
 c.      (   )  São comandos de manipulação de objetos no banco de dados. (CREATE, ALTER, DROP)
+
 	
 12.   O resultado do comando SELECT * FROM TB_CLIENTES WHERE Ativo = ‘S’ é:
 a.      (   )  Altera todos os clientes para ativo -  (Ativo = ‘S’) 
+
 b.      (   )  Retorna todos os clientes, inclusive os inativos.
+
 c.      (   )  Retorna todos os clientes, inclusive os ativos.
+
 d.      (   )  Retorna apenas os clientes ativos.
+
 	
 13.   Qual a saído do código abaixo?
 static void Main(string[] args)
