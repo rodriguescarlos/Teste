@@ -56,23 +56,38 @@ d.      (   )  Retorna apenas os clientes ativos.
 	
 13.   Qual a saído do código abaixo?
 
+
 static void Main(string[] args)
 {	
+	
 	int[] numeros = { 1, 2, 3, 5, 7, 8, 9, 11, 13, 17, 19, 23, 29, 31, 34, 36, 38, 40};
 	
+	
 	for(int i = 0; i< numeros.Length; i++)
+	
 	if (Calcular(numeros[i]))
+	
 	Console.WriteLine(numeros[i]);
+	
 }	
 
+
 public static bool Calcular(int n)
+
 {	
 	if (n == 1) return false;
-	for(int i = 2; i * i <= n; i++){
+	
+	for(int i = 2; i * i <= n; i++)
+	{
+	
 		if (n % i == 0) return false;
+		
 	}
+	
 	return true;
+	
 }	
+
 
 
 a.   (    )  Imprime os valores 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31
