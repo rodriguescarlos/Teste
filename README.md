@@ -35,6 +35,7 @@ c.      (   )  São comandos que garantem a integridade do banco de dados. (BEGI
 
 	
 11.   O que é DDL?
+
 a.      (   )  São comandos de manipulação de dados no banco de dados. (INSERT, UPDATE e DELETE)
 
 b.      (   )  São comandos que garantem a integridade do banco de dados. (BEGIN TRANSACTION, TRIGGER, IDENTITY, FOREIGN KEY)
@@ -43,6 +44,7 @@ c.      (   )  São comandos de manipulação de objetos no banco de dados. (CRE
 
 	
 12.   O resultado do comando SELECT * FROM TB_CLIENTES WHERE Ativo = ‘S’ é:
+
 a.      (   )  Altera todos os clientes para ativo -  (Ativo = ‘S’) 
 
 b.      (   )  Retorna todos os clientes, inclusive os inativos.
@@ -53,6 +55,7 @@ d.      (   )  Retorna apenas os clientes ativos.
 
 	
 13.   Qual a saído do código abaixo?
+
 static void Main(string[] args)
 {	
 	int[] numeros = { 1, 2, 3, 5, 7, 8, 9, 11, 13, 17, 19, 23, 29, 31, 34, 36, 38, 40};
@@ -83,6 +86,7 @@ d.   (    )  Imprime somente os primeiros 10 números do vetor
 e.   (    )  Não imprime nada
 	
 14.   Oque o trecho de código abaixo faz?
+
 	static void Main(string[] args)
 	{
 		var listFunc = new Func<int>[10];
