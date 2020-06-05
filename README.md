@@ -60,10 +60,15 @@ public static bool Calcular(int n)
 	return true;
 }	
 
+
 a.   (    )  Imprime os valores 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31
+
 b.   (    )  Imprime os valores 2, 8, 34, 36, 38, 40
+
 c.   (    )  Imprime todos os números
+
 d.   (    )  Imprime somente os primeiros 10 números do vetor
+
 e.   (    )  Não imprime nada
 	
 14.   Oque o trecho de código abaixo faz?
