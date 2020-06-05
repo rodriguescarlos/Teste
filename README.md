@@ -98,27 +98,36 @@ e.   (    )  Não imprime nada
 	}	
 		
 15.   Qual o valor que será impresso quando o contador estiver com o valor 9 no código abaixo?
-	
+
+
 static void Main(string[] args)
 {	
+
 	for (int contador = 0; contador < 15; contador++){
+	
 		Console.WriteLine(Fibonacci(contador));
+		
 	}
-}	
+	
+}
 
 
 public static int Fibonacci(int n)
 {	
 	int a = 0;
+	
 	int b = 1;
 	
-	// In N steps compute Fibonacci sequence iteratively.
 	for (int i = 0; i < n; i++)
 	{
 		int temp = a;
+		
 		a = b;
+		
 		b = temp + b;
+		
 	}
+	
 	return a;
 }	
 
