@@ -50,6 +50,7 @@ static void Main(string[] args)
 	if (Calcular(numeros[i]))
 	Console.WriteLine(numeros[i]);
 }	
+
 public static bool Calcular(int n)
 {	
 	if (n == 1) return false;
