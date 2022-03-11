@@ -1,31 +1,31 @@
-1.       O que é classe?
+#1.       O que é classe?
 	
 	
-2.       O que é interface? 
+#2.       O que é interface? 
 	
 	
-3.       O que é Abstração?
+#3.       O que é Abstração?
 	
 	
-4.       O que é Encapsulamento?
+#4.       O que é Encapsulamento?
 	
 	
-5.       O que é Herança? Escreva um exemplo (pode ser em forma de código ou em representação gráfica)
+#5.       O que é Herança? Escreva um exemplo (pode ser em forma de código ou em representação gráfica)
 	
 	
-6.       O que é Polimorfismo?
+#6.       O que é Polimorfismo?
 	
 	
-7.       O que é uma classe abstrata? 
+#7.       O que é uma classe abstrata? 
 	
 	
-8.       Cite os modificadores de acesso mais utilizados em classes, métodos e atributos.
+#8.       Cite os modificadores de acesso mais utilizados em classes, métodos e atributos.
 	
 	
-9.       Qual a diferença entre uma interface e uma classe abstrata?
+#9.       Qual a diferença entre uma interface e uma classe abstrata?
 	
 	
-10.   O que é DML?
+#10.   O que é DML?
 
 a.      (   )  São comandos de manipulação de objetos no banco de dados. (CREATE, ALTER, DROP)
 
@@ -34,7 +34,7 @@ b.      (   )  São comandos de manipulação de dados no banco de dados. (INSER
 c.      (   )  São comandos que garantem a integridade do banco de dados. (BEGIN TRANSACTION, TRIGGER, IDENTITY, FOREIGN KEY)
 
 	
-11.   O que é DDL?
+#11.   O que é DDL?
 
 a.      (   )  São comandos de manipulação de dados no banco de dados. (INSERT, UPDATE e DELETE)
 
@@ -43,7 +43,7 @@ b.      (   )  São comandos que garantem a integridade do banco de dados. (BEGI
 c.      (   )  São comandos de manipulação de objetos no banco de dados. (CREATE, ALTER, DROP)
 
 	
-12.   O resultado do comando SELECT * FROM TB_CLIENTES WHERE Ativo = ‘S’ é:
+#12.   O resultado do comando SELECT * FROM TB_CLIENTES WHERE Ativo = ‘S’ é:
 
 a.      (   )  Altera todos os clientes para ativo -  (Ativo = ‘S’) 
 
@@ -54,7 +54,7 @@ c.      (   )  Retorna todos os clientes, inclusive os ativos.
 d.      (   )  Retorna apenas os clientes ativos.
 
 	
-13.   Qual a saído do código abaixo?
+#13.   Qual a saído do código abaixo?
 
 
 static void Main(string[] args)
@@ -100,7 +100,7 @@ d.   (    )  Imprime somente os primeiros 10 números do vetor
 
 e.   (    )  Não imprime nada
 	
-14.   Oque o trecho de código abaixo faz?
+#14.   Oque o trecho de código abaixo faz?
 
 	static void Main(string[] args)
 	{
@@ -112,7 +112,7 @@ e.   (    )  Não imprime nada
 		}
 	}	
 		
-15.   Qual o valor que será impresso quando o contador estiver com o valor 9 no código abaixo?
+#15.   Qual o valor que será impresso quando o contador estiver com o valor 9 no código abaixo?
 
 
 static void Main(string[] args)
